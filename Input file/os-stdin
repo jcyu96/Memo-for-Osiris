@@ -1,0 +1,7 @@
+!----------global simulation parameters----------
+simulation
+{
+	n0 = 1.0d21,            ! require while simulation involving inoization or collisions
+        R0 = 
+}
+
