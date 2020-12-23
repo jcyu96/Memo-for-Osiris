@@ -1,4 +1,4 @@
 ## normalized units
-$\omega$
+$$\sigma$$
 
 ## common physical parameters
